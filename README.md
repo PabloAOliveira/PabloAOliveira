@@ -15,7 +15,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:  <a href="#" title="VsCode">
+  💼 Ferramentas:  
+                   <a href="#" title="VsCode">
                    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VsCode"/></a>
                    <a href="#" title="Figma">
                    <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/></a>
@@ -37,7 +38,7 @@
 </p
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
