@@ -15,8 +15,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:  <a style="margin-top: 10px" href="#" title="VsCode">
-                   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VsCode"/></a>
+  💼 Ferramentas:  <a href="#" title="VsCode">
+                   <img style="margin-top: 10px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VsCode"/></a>
                    <a href="#" title="Figma">
                    <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/></a>
 </p>
