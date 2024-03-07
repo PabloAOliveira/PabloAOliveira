@@ -16,7 +16,6 @@
 
 💼 Ferramentas: 
 <p align="left">
- 
                    <a href="#" title="VsCode">
                    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VsCode"/></a>
                    <a href="#" title="Figma">
