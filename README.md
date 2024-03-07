@@ -6,24 +6,34 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-                  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-                  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-                  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  🦄 Linguagens:   <a href="#" title="JavaScript">
+                   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"/></a>
+                   <a href="#" title="HTML5">
+                   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="Html"/></a>
+                   <a href="#" title="CSS">
+                   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="Css"/></a>
 </p>
 
 <p align="left">
-  💼 Ferramentas: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-                   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  💼 Ferramentas:  <a href="#" title="VsCode">
+                   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VsCode"/></a>
+                   <a href="#" title="Figma">
+                   <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/></a>
 </p>
 
 <p align="left">
-  DevOps and Utilities: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-                        ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-                        ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-                        ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-                        ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-                        ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  DevOps and Utilities: <a href="#" title="Git">
+                        <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt=""/></a>
+                        <a href="#" title="GitHub">
+                        <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt=""/></a>
+                        <a href="#" title="Bitbucket">
+                        <img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket" alt=""/></a>
+                        <a href="#" title="Docker">
+                        <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt=""/></a>
+                        <a href="#" title="Insomnia">
+                        <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt=""/></a>
+                        <a href="#" title="Postman">
+                        <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)" alt=""/></a>
 </p
 
 <p align="left">
