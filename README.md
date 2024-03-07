@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, me chamo Pablo Antônio De Oliveira, estudo Ciência da Computação na universidade Atitus.<br>
-  Atualmente atuo como <strong>desenvolvedor Front-end</strong>na empresa CGI, trabalho com <strong>VueJs</strong> e <strong>Vuetify</strong>.
+  Atualmente atuo como <strong>desenvolvedor Front-end</strong> na empresa CGI, trabalho com <strong>VueJs</strong> e <strong>Vuetify</strong>.
 </p>
 🚀 Linguagens:  
 <p align="left">
