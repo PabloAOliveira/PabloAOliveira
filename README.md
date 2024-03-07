@@ -14,16 +14,18 @@
                    <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="Css"/></a>
 </p>
 
+💼 Ferramentas: 
 <p align="left">
-  💼 Ferramentas:  
+ 
                    <a href="#" title="VsCode">
                    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VsCode"/></a>
                    <a href="#" title="Figma">
                    <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/></a>
 </p>
 
+🔭 DevOps and Utilities:
 <p align="left">
-  DevOps and Utilities: <a href="#" title="Git">
+                        <a href="#" title="Git">
                         <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt=""/></a>
                         <a href="#" title="GitHub">
                         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt=""/></a>
