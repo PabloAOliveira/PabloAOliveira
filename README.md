@@ -4,9 +4,9 @@
   Olá, me chamo Pablo Antônio De Oliveira, estudo Ciência da Computação na universidade Atitus.<br>
   Atualmente atuo como <strong>desenvolvedor Front-end</strong> na empresa CGI.
 </p>
-
+🚀 Linguagens:  
 <p align="left">
-  🦄 Linguagens:   <a href="#" title="JavaScript">
+                   <a href="#" title="JavaScript">
                    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"/></a>
                    <a href="#" title="HTML5">
                    <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="Html"/></a>
@@ -47,12 +47,3 @@
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/pablo-antônio-de-oliveira-31024422b" alt="LinkedIn"/></a>
 </p>
-
-
-
-
-
-
-
-
-
