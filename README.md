@@ -14,7 +14,7 @@
 
 💻 Front-End Developer at CGI.\
 🎓 Computer Science undergraduate at Atitus Educação.\
-🌟 I am constantly seeking out new technologies and learning about them.\
+🌟 I am constantly seeking out new technologies and learning about them
 ###
 
 <h2 align="center">My Stats</h2>
